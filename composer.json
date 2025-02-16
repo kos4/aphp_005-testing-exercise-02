@@ -1,0 +1,14 @@
+{
+    "name": "kos4/exercise-02",
+    "description": "homework #2",
+    "authors": [
+        {
+            "name": "kos4",
+            "email": "kos4.kks@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^12.1@dev"
+    }
+}
